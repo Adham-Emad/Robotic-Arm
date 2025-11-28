@@ -52,7 +52,7 @@ export default function GalleryPage() {
     },
     {
       type: "image",
-      src: "/images/image.png",
+      src: "/images/orangehand.jpg",
       title: "Orange Arm Complete",
       category: "Final Product",
     },
@@ -64,13 +64,13 @@ export default function GalleryPage() {
     },
     {
       type: "image",
-      src: "/images/image.png",
+      src: "/images/Gripper Mechanism.jpg",
       title: "Gripper Mechanism",
       category: "Detail View",
     },
     {
       type: "image",
-      src: "/images/image.png",
+      src: "/images/Wrist Assembly.jpg",
       title: "Wrist Assembly",
       category: "Component Detail",
     },
