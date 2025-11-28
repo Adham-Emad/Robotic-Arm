@@ -46,7 +46,7 @@ export default function GalleryPage() {
     },
     {
       type: "image",
-      src: "/images/image.png",
+      src: "/images/servoimplement.jpg",
       title: "SG90 Micro Servo",
       category: "Component",
     },
@@ -58,7 +58,7 @@ export default function GalleryPage() {
     },
     {
       type: "video",
-      src: "https://commondatastorage.googleapis.com/gtv-videos-library/sample/BigBuckBunny.mp4",
+      src: "/images/v1.mp4",
       title: "Arm Assembly Process",
       category: "Video Tutorial",
     },
@@ -76,20 +76,20 @@ export default function GalleryPage() {
     },
     {
       type: "video",
-      src: "https://commondatastorage.googleapis.com/gtv-videos-library/sample/ForBiggerBlazes.mp4",
+      src: "/images/v2.mp4",
       title: "Color Sorting Demo",
       category: "Functionality",
     },
     {
       type: "image",
-      src: "/images/image.png",
+      src: "/images/servoimplement.jpg",
       title: "Servo Installation",
       category: "Assembly",
     },
     {
       type: "image",
-      src: "/images/image.png",
-      title: "Wrist Rotation View",
+      src: "/images/arduinocables.jpg",
+      title: "Arduino Connections",
       category: "Mechanical Detail",
     },
     {
@@ -100,14 +100,14 @@ export default function GalleryPage() {
     },
     {
       type: "image",
-      src: "/images/image.png",
+      src: "/images/powerimplementation.jpg",
       title: "Power Supply Unit",
       category: "Electronics",
     },
     {
       type: "image",
-      src: "/images/image.png",
-      title: "Complete Assembly",
+      src: "/images/colordetect.jpg",
+      title: "Color Detection",
       category: "Final Build",
     },
     {
