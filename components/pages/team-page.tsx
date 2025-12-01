@@ -31,7 +31,7 @@ export default function TeamPage() {
       role: "Hardware Developer", // Changed from "Hardware Engineer" to student-level title
       department: "Hardware",
       bio: "Works on collecting and integrating the complete hardware kit of the arm, managing wired connections with Arduino, power systems, and sensor integration.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      image: "/images/Adham.jpg",
       quote: "Hardware is the backbone of any robotic system.",
       expertise: ["Arduino Integration", "Wiring", "Sensors"],
     },
@@ -41,7 +41,7 @@ export default function TeamPage() {
       role: "Hardware Enthusiast", // Changed from "Hardware Technician" to student-level title
       department: "Hardware",
       bio: "Focuses on assembling and maintaining hardware components, ensuring all physical connections are secure and functional.",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+      image: "/images/Male.jpeg",
       quote: "Precision in assembly ensures precision in performance.",
       expertise: ["Assembly", "Maintenance", "Quality Control"],
     },
@@ -51,7 +51,7 @@ export default function TeamPage() {
       role: "Power Systems Learner", // Changed from "Hardware Specialist" to student-level title
       department: "Hardware",
       bio: "Developing skills in power distribution and ensuring all electronic components work harmoniously together for optimal arm functionality.",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      image: "/images/Aswany.jpg",
       quote: "Every connection matters in robotics.",
       expertise: ["Power Systems", "Circuit Design", "Troubleshooting"],
     },
@@ -62,7 +62,7 @@ export default function TeamPage() {
       role: "Software Developer", // Already appropriate, kept as is
       department: "Software",
       bio: "Works on code development, sensor degree calibration, and implementing the functionality that controls arm movement and operations.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      image: "/images/Osama.jpg",
       quote: "Code brings the arm to life.",
       expertise: ["Algorithm Design", "Sensor Calibration", "Optimization"],
     },
@@ -73,7 +73,7 @@ export default function TeamPage() {
       role: "Testing Coordinator", // Changed from "QA Testing Lead" to student-level title
       department: "Testing",
       bio: "Conducts comprehensive testing to identify missed details and ensure all components function correctly, maintaining project quality standards.",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+      image: "/images/Male.jpeg",
       quote: "Thorough testing ensures flawless execution.",
       expertise: ["QA Testing", "Debugging", "Documentation"],
     },
@@ -83,7 +83,7 @@ export default function TeamPage() {
       role: "Quality Assurance Tester", // Changed from "Testing Engineer" to student-level title
       department: "Testing",
       bio: "Responsible for checking and maintaining the program functionality, verifying that every detail is complete and meets project requirements.",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+      image: "/images/Male.jpeg",
       quote: "Quality is achieved through meticulous testing.",
       expertise: ["Performance Testing", "Integration Testing", "Validation"],
     },
@@ -94,7 +94,7 @@ export default function TeamPage() {
       role: "CAD Designer", // Changed from "Design Engineer" to student-level title
       department: "Design",
       bio: "Learning and developing skills in visual design and component placement, ensuring proper arrangement and design of each component for optimal appearance.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      image: "/images/Female.jpeg",
       quote: "Design is where function meets beauty.",
       expertise: ["CAD Design", "Component Placement", "Aesthetics"],
     },
@@ -104,7 +104,7 @@ export default function TeamPage() {
       role: "3D Modeling Developer", // Changed from "Design Specialist" to student-level title
       department: "Design",
       bio: "Developing skills in shaping the final appearance of the project, coordinating the design of all components to create a cohesive and professional final look.",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+      image: "/images/Female.jpeg",
       quote: "Great design is invisible—it just works.",
       expertise: ["3D Modeling", "Visual Design", "Technical Drawings"],
     },
@@ -115,7 +115,7 @@ export default function TeamPage() {
       role: "Documentation Writer", // Changed from "Technical Writer" to student-level title
       department: "Support",
       bio: "Learning to create comprehensive technical writing and documentation for the project, ensuring all information is clear and accessible.",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      image: "/images/Female.jpeg",
       quote: "Clear documentation is the foundation of knowledge.",
       expertise: ["Technical Writing", "Documentation", "User Guides"],
     },
@@ -125,7 +125,7 @@ export default function TeamPage() {
       role: "Project Documenter", // Changed from "Documentation Specialist" to student-level title
       department: "Support",
       bio: "Developing skills in maintaining all technical documentation and project guidelines, ensuring consistency and clarity throughout the project lifecycle.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      image: "/images/Male.jpeg",
       quote: "Good documentation empowers teams.",
       expertise: ["Documentation", "Technical Communication", "Knowledge Management"],
     },
